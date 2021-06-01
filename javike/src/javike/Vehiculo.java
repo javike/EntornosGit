@@ -9,7 +9,7 @@ public class Vehiculo {
 		this. numRuedas=numRuedas;}
 	public void showinfo(){
 		System.out.println( "Soy un vehiculo");
-				
+				//Esta es la adiccion
 	}
 
 }
